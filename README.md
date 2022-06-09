@@ -1,6 +1,6 @@
 <h1 align="center">ByLoggers</h1>
 
-<h4 align="center">⛏️ A Simple, Fast and Efficient IP Logger Spammer</h4>
+<h4 align="center">🔫 A Simple, Fast and Efficient IP Logger Spammer</h4>
 <h6 align="center">Made with passion by Frogy.</a></h6>
 
 ## Preview
