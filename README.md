@@ -4,7 +4,7 @@
 <h6 align="center">Made with passion by Frogy.</a></h6>
 
 ## Preview
-
+https://youtu.be/QCTI0Poo86E
 
 ## Features
 - Automatic proxies scraping
