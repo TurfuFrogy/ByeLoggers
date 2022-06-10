@@ -5,8 +5,7 @@ class ByeLoggers:
     def __init__(self):
         if os.name == "nt":
             os.system("mode con: cols=138 lines=30")
-
-        self.tLocker = threading.Lock()
+            
         self.session = requests.Session()
 
         self.proxiesScraped = False
