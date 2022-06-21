@@ -11,11 +11,11 @@ https://youtu.be/QCTI0Poo86E
 - MultiThreaded
 - Clean and Noob-Friendly UI
 
-## To Do List
-- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
-
 ## Usage
 You can either use the compiled version (.exe) in releases or use the Python version by downloading the dependencies in the requirements.txt file first.
+
+## To Do List
+- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
 
 ## About
 ByeLoggers is a little script I made in a hurry just to troll someone who was trying to IP Log me ^^'
